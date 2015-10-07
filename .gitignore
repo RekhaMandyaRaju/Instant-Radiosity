@@ -1,0 +1,7 @@
+obj/
+*.ppm
+CS580HW
+<<<<<<< HEAD
+=======
+!textures/*.ppm
+>>>>>>> 1d4cf59df68a533220395d33673e732c5d721bad
